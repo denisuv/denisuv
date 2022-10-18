@@ -1,4 +1,4 @@
-![](https://github.com/denisuv/Denis/blob/ed44b5cdf9a421813e0e76e3131095a0bd859e50/background.jpg)
+![](https://github.com/denisuv/Denis/blob/main/background.jpg)
 
 ### ✨  Overview  ✨
 
