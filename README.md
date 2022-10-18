@@ -15,4 +15,4 @@ Full Stack and Blockchain developer with awesome web technical skills, hefty pro
 
 What `Danis` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
 
-Feel free to contact `Danis` via [eMail](mailto:devarhanov@gmail.com?Subject=Hello%20Danis!), [Tel](+1 323 412 7865) and [Telegram](https://t.me/hackykitty) who is always ready to make your professional dreams a reality.
+Feel free to contact `Danis` via [eMail](mailto:devarhanov@gmail.com?Subject=Hello%20Danis!) and [Telegram](https://t.me/hackykitty) who is always ready to make your professional dreams a reality.
