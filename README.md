@@ -13,6 +13,6 @@ Full Stack and Blockchain developer with awesome web technical skills, hefty pro
 * 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/) 
 * 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
-What `Danis` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
+What `Denis Varhan` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
 
 Feel free to contact `Danis` via [eMail](mailto:devarhanov@gmail.com?Subject=Hello%20Danis!) and [Telegram](https://t.me/hackykitty) who is always ready to make your professional dreams a reality.
